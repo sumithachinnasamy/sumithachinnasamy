@@ -103,26 +103,36 @@
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="center">
 
-<a href="https://github.com/sumithachinnasamy">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+<a href="https://github.com/sumithachinnasamy" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/100/FFFFFF/github.png" width="45" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sumitha-chinnasamy-8968183ab/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/sumitha-chinnasamy-8968183ab/" target="_blank">
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="45" alt="LinkedIn"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sumithachinnasamy2006@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="55"/>
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="45" alt="Gmail"/>
 </a>
 
-<a href="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/main/Resume.pdf">
-<img src="https://img.icons8.com/color/96/resume.png" width="55"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/main/Resume.pdf" target="_blank">
+  <img src="https://img.icons8.com/color/96/resume.png" width="45" alt="Resume"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/main/Resume.pdf" download>
-<img src="https://img.icons8.com/color/96/download.png" width="55"/>
+  <img src="https://img.icons8.com/color/96/download--v1.png" width="45" alt="Download"/>
 </a>
 
 </p>
