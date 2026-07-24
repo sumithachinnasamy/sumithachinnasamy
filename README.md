@@ -121,36 +121,6 @@
 
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumithachinnasamy&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sumithachinnasamy&theme=radical&hide_border=true" />
-</p>
-
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithachinnasamy&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumithachinnasamy&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
