@@ -101,22 +101,28 @@
 
 ## 📫 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="center">
 
-<a href="https://github.com/sumithachinnasamy" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/sumithachinnasamy">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sumitha-chinnasamy-8968183ab/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/sumitha-chinnasamy-8968183ab/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
 </a>
 
 <a href="mailto:sumithachinnasamy2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="55"/>
+</a>
+
+<a href="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/main/Resume.pdf">
+<img src="https://img.icons8.com/color/96/resume.png" width="55"/>
 </a>
 
 <a href="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/main/Resume.pdf" download>
-<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+<img src="https://img.icons8.com/color/96/download.png" width="55"/>
 </a>
 
 </p>
