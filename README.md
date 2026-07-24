@@ -115,8 +115,8 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/sumithachinnasamy/sumithachinnasamy/blob/main/Resume.pdf" target="_blank">
-<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/main/Resume.pdf" download>
+<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
 </p>
