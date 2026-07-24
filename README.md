@@ -43,7 +43,6 @@
 - QR Verification
 - Secure Role Authentication
 
----
 
 ## 📜 Certifications
 
@@ -55,7 +54,6 @@
 
 🏅 Virtual Internship
 
----
 
 ## 📊 GitHub Stats
 
@@ -67,7 +65,6 @@
 
 </p>
 
----
 
 ## 💻 Most Used Languages
 
@@ -77,7 +74,6 @@
 
 </p>
 
----
 
 ## 🏆 GitHub Trophy
 
@@ -87,7 +83,6 @@
 
 </p>
 
----
 
 ## 🐍 Contribution Graph
 
@@ -97,35 +92,29 @@
 
 </p>
 
----
 
-## 📫 Connect With Me
-
-## 🌐 Connect With Me
-
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/sumithachinnasamy" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/FFFFFF/github.png" alt="GitHub" width="35"/>
+    <img src="https://img.icons8.com/ios-filled/100/FFFFFF/github.png" alt="GitHub" width="30"/>
   </a>
 
   <a href="https://www.linkedin.com/in/sumitha-chinnasamy-8968183ab/" target="_blank">
-    <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="35"/>
+    <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="30"/>
   </a>
 
   <a href="mailto:sumithachinnasamy2006@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Gmail" width="35"/>
+    <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Gmail" width="30"/>
   </a>
 
   <a href="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/main/Resume.pdf" target="_blank">
-    <img src="https://img.icons8.com/color/96/resume.png" alt="Resume" width="35"/>
+    <img src="https://img.icons8.com/color/96/resume.png" alt="Resume" width="30"/>
   </a>
 
   <a href="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/main/Resume.pdf" download>
-    <img src="https://img.icons8.com/color/96/download--v1.png" alt="Download" width="35"/>
+    <img src="https://img.icons8.com/color/96/download--v1.png" alt="Download" width="30"/>
   </a>
 </p>
 
