@@ -58,35 +58,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumithachinnasamy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sumithachinnasamy&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithachinnasamy&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithachinnasamy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumithachinnasamy&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sumithachinnasamy&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/sumithachinnasamy/sumithachinnasamy/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
-
 
 ## 🌐 Connect With Me
 
